@@ -1,7 +1,7 @@
 # Prophet
 
 <h4 align="center">
-  Prophet is an open-source library avaliable on R or Python wich helps users analyze and forecast time-series values
+  Prophet is an open-source library available on R or Python wich helps users analyze and forecast time-series values
 </h4>
 
 ---
